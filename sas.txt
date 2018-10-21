@@ -1,0 +1,2 @@
+This is a sample file to check GIT commands!!
+Today: 10/21/2018
